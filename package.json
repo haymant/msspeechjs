@@ -1,0 +1,21 @@
+{
+  "name": "ms-speech",
+  "version": "1.0.0",
+  "description": "Javascript lib from Miscrofot, minor tunned for typescript",
+  "homepage": "https://github.com/haymant/msspeechjs",
+  "author": "Zhao Li",
+  "keywords": [
+    "Speech",
+    "AI",
+    "Typescript"
+  ],
+  "license": "MIT",
+  "main": "src/speech.1.0.0.js",
+  "files": [
+    "src/speech.1.0.0.js"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/haymant/msspeechjs.git"
+  }
+}
